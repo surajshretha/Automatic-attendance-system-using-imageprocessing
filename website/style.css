@@ -1,0 +1,87 @@
+#button1{
+	padding: 10px 10px;
+	
+	position:absolute;
+	transition: .5s ease;
+    left: 850px;
+    top: 328px;
+    padding: 10px 10px;
+	}
+.but1{
+	color: #E6E6E6;
+	font-size: 40px;
+	font-weight: bold;
+	background-color: black;
+
+}
+#button2{
+	padding: 10px 10px;
+	
+	position:absolute;
+	transition: .5s ease;
+    left: 850px;
+    top: 408px;
+	
+
+}
+.but2{
+	color: #E6E6E6;
+	font-size: 40px;
+	font-weight: bold;
+	background-color: black;
+
+}
+#frm
+{
+		color: black;
+		font-size: 35px;
+		font-weight: bold;
+		display: table;
+		padding: 40px 70px;
+	    background: gray;
+	    
+	    position:absolute;
+	    transition: .5s ease;
+        left: 850px;
+        top: 270px;
+}
+	input[type="text"]
+	{
+		color: black;
+        border-radius: 4px;
+        font-size:18px;	
+    }
+    input[type="password"]
+	{
+		color: black;
+        border-radius: 4px;
+        font-size:18px;	
+    }
+    .sub
+    {
+    	font-size: 20px;
+    	color: white;
+    	border:solid 2px white;
+    	background: transparent;
+    	padding: 2px
+    }
+table{
+	border: 2px solid black;
+	position: absolute;
+	left: 200px;
+	top: 300px;
+	font-size: 25px;
+    font-color: blue;
+}
+th { 
+  background: white; 
+  color: black; 
+  font-weight: bold; 
+}
+td, th { 
+	background: white;
+  padding: 6px; 
+  border: 3px solid black; 
+  text-align: left; 
+  color: black;
+}
