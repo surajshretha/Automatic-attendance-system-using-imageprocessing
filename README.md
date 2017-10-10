@@ -1,5 +1,5 @@
 # Automatic-attendance-system-using-imageprocessing
-#follow folling steps
+#follow following steps
 1.add all files to one folder excluding website folder.
 2. install python 2.7 and import opencv , numpy, pygame, pymysql, time. 
 3.start local server (Apache,Mysql) using xampp. 
